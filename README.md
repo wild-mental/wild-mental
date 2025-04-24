@@ -3,9 +3,9 @@
 I’m Byung Jun Park — a backend engineer, cloud architect, and technical educator passionate about connecting technology and people.  
 
 ### 🔭 I’m currently working on  
+- Creating technical training materials and mentoring developers in **AI, big data, and cloud computing**
+- Designing **cloud infrastructure** and **data pipelines** on **AWS**
 - Building scalable backend systems with **Java (Spring Boot), Python (Django)**  
-- Designing **cloud infrastructure** and **data pipelines** on **AWS**  
-- Creating technical training materials and mentoring developers in **AI, big data, and cloud computing**  
 
 ### 🌱 I’m currently learning  
 - Advanced cloud architecture (EKS, serverless design)  
